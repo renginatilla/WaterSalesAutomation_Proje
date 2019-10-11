@@ -1,6 +1,6 @@
 # WaterSalesAutomation_Proje
 C#, Object Oriented Programming(OOP), Entity Framework, SQL
-With water sales automation, it is ensured that sales information that can be used by the dealers selling a water company is processed in a practical way.
+Water sales automation, it is ensured that sales information that can be used by the dealers selling a water company is processed in a practical way.
 
 # Project Display Image
 <p>
